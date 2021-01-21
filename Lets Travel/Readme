@@ -1,0 +1,5 @@
+To start the project open folder in visual studio code or any other software of your choosing
+Type in "npm install" in terminal window
+Type in node app.js to run web application
+Register yourself wtih a username and password
+Sign in to jump into the homepage
